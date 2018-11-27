@@ -15,7 +15,7 @@ SPIDER_MODULES = ['hupubuxingjietutorial.spiders']
 NEWSPIDER_MODULE = 'hupubuxingjietutorial.spiders'
 
 
-MYSQL_URL='127.0.0.1'
+MYSQL_URL='10.3.149.121'
 MYSQL_PORT=3306
 MYSQL_USER='root'
 MYSQL_PWD='newpwd'
